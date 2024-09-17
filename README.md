@@ -5,8 +5,8 @@
 Arti Store is your one-stop destination for discovering and purchasing unique, high-quality artwork. This project is a full-stack web application where users can browse, filter, and purchase products from a diverse collection of art. It was built with a passion for blending art and technology to create a seamless online shopping experience for art enthusiasts.
 
 - **Deployed Site:** [Arti Store Live](https://alitahaa.github.io/arti/)
-- **Blog Article:** [Final Project Blog](#) (Insert the actual link)
-- **Author's LinkedIn:** [Ali Taha](#)
+- **Blog Article:** [Final Project Blog](https://www.linkedin.com/feed/update/urn:li:activity:7241925759634706432/)
+- **Author's LinkedIn:** [Ali Taha](https://www.linkedin.com/in/ali-taha-944987329)
 
 ---
 
